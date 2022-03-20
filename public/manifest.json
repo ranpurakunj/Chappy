@@ -1,0 +1,7 @@
+{
+  "name": "Chappy",
+  "short_name": "Chappy",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
